@@ -1,0 +1,17 @@
+blinker
+Click
+entrypoints
+flake8
+Flask
+gunicorn
+itsdangerous
+mccabe
+pycodestyle
+pycparser
+pyflakes
+six
+Werkzeug
+wincertstore
+requests
+bs4
+jinja2
